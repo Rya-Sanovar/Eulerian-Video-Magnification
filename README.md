@@ -1,0 +1,2 @@
+# Eulerian-Video-Magnification
+The goal is to reveal temporal variations in videos that are difficult or impossible to see with the unaided eye and display them in an indicative manner. The method - Eulerian Video Magnification, takes a standard video sequence as input, and applies spatial decomposition, followed by temporal filtering to the frames, for color and motion magnification. We experimented and found out the varying frequency bands and amplification factors required for different magnification tasks.
