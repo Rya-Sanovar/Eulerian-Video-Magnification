@@ -6,12 +6,12 @@ For detecting these variations, an optical microscope aid is required to the hum
 This method, takes a standard video sequence as input, and applies spatial decomposition, followed by temporal filtering to the sequence of frames. Amplification of the resulting signal reveals the hidden information, resulting in color and motion magnified videos.
 Using this method, we can successfully visualize the flow of blood as it fills the face and also to amplify and reveal invisible motions. 
 
-@article{Wu12Eulerian,
-  author = {Hao-Yu Wu and Michael Rubinstein and Eugene Shih and John Guttag and Fr\'{e}do Durand and
-  William T. Freeman},
-  title = {Eulerian Video Magnification for Revealing Subtle Changes in the World},
-  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH 2012)},
-  year = {2012},
-  volume = {31},
-  number = {4},
-}
+    @article{Wu12Eulerian,
+      author = {Hao-Yu Wu and Michael Rubinstein and Eugene Shih and John Guttag and Fr\'{e}do Durand and
+      William T. Freeman},
+      title = {Eulerian Video Magnification for Revealing Subtle Changes in the World},
+      journal = {ACM Transactions on Graphics (Proc. SIGGRAPH 2012)},
+      year = {2012},
+      volume = {31},
+      number = {4},
+    }
